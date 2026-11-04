@@ -1,0 +1,7 @@
+<suite name="AI-Driven Auto-Healing Suite">
+<test name="OrangeHRM Tests">
+<classes>
+<class name="tests.OrangeHRMTest"/>
+</classes>
+</test>
+</suite>
